@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="dm.bundle" name="dm Bundle for 'javaee'">
+    <output-path>$PROJECT_DIR$/out/artifacts/dm_Bundle_for__javaee_</output-path>
+    <root id="root">
+      <element id="packaging-for-osgi-module" module="javaee">
+        <element id="module-output" name="javaee" />
+      </element>
+    </root>
+  </artifact>
+</component>
